@@ -1,0 +1,20 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	ChargeBlade: {
+		DisplayName: Charge Blade
+		Tooltip: There are more steps to using this than are in a manual from IKEA.
+	}
+
+	AlatreonGreatsword: {
+		Tooltip: Escaton Judge my ass!
+		DisplayName: Alatreon Greatsword
+	}
+
+	CosmiliteAugmentAddon: {
+		Tooltip: How much movement do you even need?
+		DisplayName: Cosmilite Augment
+	}
+}
+
+Tiles.CosmiliteAugmentTile.MapEntry: Cosmilite Augment Tile
