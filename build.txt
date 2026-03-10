@@ -1,4 +1,5 @@
 displayName = [c/a3191a:Metroid Mod: Calamity Addon]
 author = Lunaxio and the dev team
 version = 0.1
-modReferences = CalamityMod@2.0.4.6, CalamityModMusic@2.0.5, MetroidMod@2.1.2.19
+modReferences = CalamityMod@2.1.1, CalamityModMusic@2.0.5, MetroidMod@2.1.2.19
+
